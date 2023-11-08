@@ -9,6 +9,7 @@ Snowflake
 Rivery
 Google Forms
 Google Sheets
+
 **Key Features**
 Automated data retrieval from Google Sheets
 Scheduled data integration with Snowflake database using Rivery
