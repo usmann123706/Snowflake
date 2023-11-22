@@ -7,9 +7,9 @@ and creating a dashboard for insightful analysis.
 2)Follow the instructions on the marketplace to obtain the necessary data  
 3)Save the data locally for further processing  
 # Snowflake Configuration
-1)Create a Snowflake account if you don't have one.
-2)Set up a virtual warehouse for data processing.
-3)Configure Snowflake internal stage for seamless data loading.
+1)Create a Snowflake account if you don't have one  
+2)Set up a virtual warehouse for data processing  
+3)Configure Snowflake internal stage for seamless data loading  
 # Data Processing
 # Creating Virtual Warehouse
 In Snowflake, create a virtual warehouse with suitable configurations for your data processing needs.
