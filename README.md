@@ -54,9 +54,4 @@ This repository contains code for building a regression model to forecast daily 
    - Apply the UDF to forecast daily visitors for the `DAILY_VISITORS_NEW` table.
    - Save the forecast results into a Snowflake table.
 
-## Contributors
-   - List contributors and their roles in the project.
-
-## License
-   - Specify the license under which this project is distributed.
 
